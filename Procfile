@@ -1,1 +1,1 @@
-worker: node bot.js skill
+worker: node bot.js
